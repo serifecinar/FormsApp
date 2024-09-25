@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "h2Lrivy/VjWr1iIx6pV93ucV022Nbo4Bybbb2397vp460uMMlkHytGx+jnYF7H5g7dmCe/2HbKKWYp9jq6GNxA==",
+  "dgSpecHash": "B75jmlyp1GCcdXp+0xShSsfq7luE6uMzEjyONQomYE+ydR2SambHj5IZjVG4VLP6ynLRVkaJzdErvIBKVlvTFg==",
   "success": true,
   "projectFilePath": "C:\\Users\\MSİ\\Desktop\\ASPNETCORE DERSLERİ\\FormsApp\\FormsApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MSİ\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
